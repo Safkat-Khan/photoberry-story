@@ -1,0 +1,27 @@
+
+.mySwiper2{
+     width: 350px;
+  height: 450px;
+}
+
+.swiper-slide1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 18px;
+  font-size: 22px;
+
+  position: relative;
+}
+.text-stroke-3 {
+  
+    font-family: Great Vibes;
+   
+}
+
+@media (max-width: 500px) {
+.mySwiper2{
+     width: 220px;
+  height: 350px;
+}
+}
